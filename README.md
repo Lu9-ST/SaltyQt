@@ -37,4 +37,5 @@ Thanks to Nic Jansma for the original site and code.
 - "domain rules" (like the site)
 - different max characters per hashing algorithm
 - save preferences
+- pre-packaged build...?
 - bundle eye icon svg...?
