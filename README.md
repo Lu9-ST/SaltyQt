@@ -23,7 +23,7 @@ To have the output (salted password) unmasked by default, open `stp_ui.py` up in
 
 **Tip:** Try dragging the output into your desired password field (if dropping is allowed) instead of copying it to your clipboard!
 
-***This was tested only on Linux (Arch/CachyOS). Untested on Windows and Mac.***
+***This was tested only on Linux (Arch/CachyOS) and Windows (Wine). Untested on Windows (The Real One) and Mac.***
 
 ### Credits
 GUI made with Qt Widgets Designer by The Qt Company (*Qt and KDE team: have my babies*)
@@ -31,3 +31,10 @@ GUI made with Qt Widgets Designer by The Qt Company (*Qt and KDE team: have my b
 <br>(does not fit my definition of vibe-coding which is "when you don't even look at/make sense of the fucking code it spits out")
 
 Thanks to Nic Jansma for the original site and code.
+
+### Todo (Maybe)
+- domain name sanitization
+- "domain rules" (like the site)
+- different max characters per hashing algorithm
+- save preferences
+- bundle eye icon svg...?
