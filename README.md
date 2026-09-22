@@ -22,10 +22,8 @@ To have the output (salted password) unmasked by default, open `stp_ui.py` up in
 <br>For other changes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;idk man just look at the code lol (might update it more)
 
 **Tip:** Try dragging the output into your desired password field (if dropping is allowed) instead of copying it to your clipboard!
+[example.webm](https://github.com/user-attachments/assets/6c17162b-192a-40ef-89b7-e637993bcdfd)
 
-<video controls>
-  <source src="example.webm" type="video/webm" />
-</video>
 
 ***This was tested only on Linux (Arch/CachyOS) and Windows (Wine). Untested on Windows (The Real One) and Mac.***
 
